@@ -1,5 +1,8 @@
 _repo: It-Takes-a-Thief_58673
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58673-h/images/cover.jpg
 creator:
   author:
     agent_name: Miller, Walter M.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33738
     wikipedia: http://en.wikipedia.org/wiki/Walter_M._Miller,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58673#It-Takes-a-Thief
 gutenberg_issued: '2019-01-11'
 gutenberg_type: Text
 identifiers:
